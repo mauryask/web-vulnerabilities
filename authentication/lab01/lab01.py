@@ -1,3 +1,5 @@
+ # Lab url: https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses
+
 import requests 
 import urllib3 
 from concurrent.futures import ThreadPoolExecutor 
